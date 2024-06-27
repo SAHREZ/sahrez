@@ -18,11 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=ahmadsufyan455&style=flat-square&color=blue" alt=""/>
 </div><br><br>
 
-- 🔭 Currently working as Mobile Developer
-- 🌱 Learnig Flutter for Mobile Development 
-- ⛳️ 2024 Goals: Making contribution to tech education
-- ⚡ Fun fact: I love to reading book about self-development
-
+- 🔭 gaming content creator and random tutorial
+- 🌱 FrontEnd Dev Learn
+- ⛳️ Mobile dev Junior
+- ⚡ Desain 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
